@@ -11,7 +11,7 @@ end
 
 def argue(argument)
   
-  return 
+  return argument
   
 end
 
